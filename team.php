@@ -24,18 +24,14 @@
         <div class="team-member">
             <img src="images/siddhantImage_nextdoor.jpg" alt="Team Member 1">
             <h3>Siddhant</h3>
-            <p>Frontend/Backend development</p>
+            <p>Backend development</p>
         </div>
         <div class="team-member">
-            <img src="images/sankalp.jpg" alt="Team Member 2">
-            <h3>Sankalp</h3>
-            <p>UI/UX</p>
+            <img src="images/chayan.jpg" alt="Team Member 2">
+            <h3>Chayan</h3>
+            <p>Frontend development , UI/UX</p>
         </div>
-        <div class="team-member">
-            <img src="images/priyanshu.jpg" alt="Team Member 3">
-            <h3>Priyanshu</h3>
-            <p>Frontend development</p>
-        </div>
+        
     </div>
 
     <div class="home-button">
